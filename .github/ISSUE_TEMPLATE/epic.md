@@ -2,13 +2,23 @@
 name: Epic
 about: Projektbeskrivelse til Digitaliseringsoverblikket
 title: ''
-labels: ''
+labels: 'epic'
 assignees: ''
 
 ---
 
-# Beskrivelse
+### Beskrivelse
 
 
 
-# Plan for igangsættelse af projekt
+### Behandling af persondata
+
+- [X] Ingen
+- [ ] Alm. persondata
+- [ ] Følsom persondata
+
+Yderligere bemærkninger: 
+
+
+### Kontaktperson
+
